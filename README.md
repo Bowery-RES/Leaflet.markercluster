@@ -1,3 +1,7 @@
+Bowery updates:
+- Fix https://github.com/Leaflet/Leaflet.markercluster/pull/984 to make this work in Shadow DOM.
+
+
 Leaflet.markercluster
 =====================
 
