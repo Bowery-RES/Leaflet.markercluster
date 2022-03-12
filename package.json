@@ -1,6 +1,6 @@
 {
-	"name": "leaflet.markercluster",
-	"repository": "https://github.com/Leaflet/Leaflet.markercluster",
+	"name": "@bowery-valuation/leaflet.markercluster",
+  "repository": "git@github.com:Bowery-RES/Leaflet.markercluster.git",
 	"version": "1.5.4",
 	"description": "Provides Beautiful Animated Marker Clustering functionality for Leaflet",
 	"devDependencies": {
